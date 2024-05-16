@@ -30,7 +30,7 @@ O projeto consiste na construção de uma página conforme wireframe no Figma.
 <h1 align="center">Visualizar o Projeto Online</h1> 
 
 <p align="center">
-    <img src="" alt="tela inicial">
+    <img src="imagens/print da tela.png" alt="tela inicial">
 </p>
 
 
