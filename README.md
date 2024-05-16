@@ -35,4 +35,4 @@ O projeto consiste na construção de uma página conforme wireframe no Figma.
 
 
 ## Deploy
-**link:** https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura-curso-5/EwaejBWXj8eN8tnDDojNnRPk65hK
+**link:** https://formacao-front-end-alura-combo.vercel.app/
