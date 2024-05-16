@@ -33,4 +33,5 @@ O projeto consiste na construção de uma página conforme wireframe no Figma.
 
 
 ## Deploy
-**link:** https://formacao-front-end-alura-combo.vercel.app/
+**Link Vercel:** https://formacao-front-end-alura-combo.vercel.app/  
+**Link GitHub Pages:** https://joaoluizdev.github.io/formacao-front-end-alura-combo/
