@@ -1,5 +1,3 @@
-https://vercel.com/joao-luizs-projects-3c21440e/formacao-front-end-alura-curso-5
-
 <h1 align="center">Curso 5</h1> 
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
